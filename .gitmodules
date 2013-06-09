@@ -1,0 +1,3 @@
+[submodule "wallpapers"]
+	path = wallpapers
+	url = git://github.com/msurguy/Laravel-wallpapers.git
